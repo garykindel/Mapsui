@@ -71,3 +71,7 @@ We are delighted with our first gold sponsor Sebastian Kruse, who has also contr
 ## License 
 
 [LGPL](https://raw.githubusercontent.com/mapsui/Mapsui/master/LICENSE.md)
+
+
+https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
+
